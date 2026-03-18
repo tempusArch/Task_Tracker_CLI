@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HT+3z6tTW54=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\homage\\ninmuTracker\\ninmuTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\homage\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "C:\\Users\\homage\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
